@@ -1,2 +1,2 @@
-# Chess-Remake
-Just a remake of chess game
+# Chess
+Just a typical chess game
